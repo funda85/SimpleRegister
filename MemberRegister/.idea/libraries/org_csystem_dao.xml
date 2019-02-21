@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org-csystem-dao">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../jars/org-csystem-dao.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
